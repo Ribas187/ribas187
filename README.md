@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/ribas187/ribas187/blob/git.gif">
+<img width="auto" src="https://github.com/Ribas187/ribas187/blob/master/git.gif">
 
 
 # Guilherme Ribas

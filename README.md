@@ -11,7 +11,7 @@ I'm always learning and improving myself.
 The secret of being successful is to never stop studying:rocket:
 
 
- <br/> :blush: &nbsp; I can help you with ReactJS, Javascript and Node
+ <br/> :blush: &nbsp; I can help you with React, Javascript and Node
  <br/> :computer: &nbsp; My current stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: I love playng videogames, watching TV series and superhero movies
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 

@@ -6,7 +6,9 @@
 ## Hi there 👋
 I'm a FullStack Developer :computer:
 <br/>I love to solve real problems with using programming and technologies.
-I'm always learning and improving myself. The secret of being successful is to never stop studying:rocket:
+I'm always learning and improving myself. 
+<br/><br/>
+The secret of being successful is to never stop studying:rocket:
 
 
  <br/> :blush: &nbsp; I can help you with ReactJS, Javascript and Node

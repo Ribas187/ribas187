@@ -14,6 +14,12 @@ The secret of being successful is to never stop studying:rocket:
  <br/> :blush: &nbsp; I can help you with React, Javascript and Node
  <br/> :computer: &nbsp; My current stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: I love playng videogames, watching TV series and superhero movies
+ <br/> 
+ 
+ <img align="left" alt="Guilherme Ribas github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ribas187&show_icons=true&hide_border=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas187)](https://github.com/Ribas187/github-readme-stats)
+ 
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-guilherme.ribas.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme.ribas.tech@gmail.com)](mailto:guilherme.ribas.tech@gmail.com)

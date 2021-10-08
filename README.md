@@ -22,9 +22,8 @@ My Techs:<br><br>
 <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white' />
  
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=ribas187&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas187&layout=compact)](https://github.com/Ribas187/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ribas187&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribas187&layout=compact&theme=tokyonight)](https://github.com/Ribas187/github-readme-stats)
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 
 | 

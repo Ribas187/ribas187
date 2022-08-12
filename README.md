@@ -13,7 +13,7 @@ The secret of being successful is to never stop studying:rocket:
 
  <br/> :blush: &nbsp; I can help you with React, Javascript and Node
  <br/> :computer: &nbsp; My current stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; About me: I love playng videogames, watching TV series and superhero movies
+ <br/> 💬  &nbsp; About me: I love playing videogames, watching TV series and superhero movies
  <br/>  <br/> 
  
 My Techs:<br><br>

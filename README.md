@@ -27,7 +27,7 @@ My Techs:<br><br>
 
 **🐱 My GitHub Data** 
 
-> 🏆 78 Contributions in the Year 2023
+> 🏆 80 Contributions in the Year 2023
  > 
 > 📦 110.6 kB Used in GitHub's Storage 
  > 
@@ -37,16 +37,20 @@ My Techs:<br><br>
  > 
 > 🔑 12 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
+**I Mostly Code in TypeScript** 
 
 ```text
-💬 Programming Languages: 
-TypeScript               41 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+TypeScript               26 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.32 % 
+JavaScript               18 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.30 % 
+TSQL                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.13 % 
+Dart                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.13 % 
+CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.13 % 
 
 ```
 
 
- Last Updated on 14/02/2023 09:38:25 UTC
+
+ Last Updated on 15/02/2023 23:18:39 UTC
 <!--END_SECTION:waka-->
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 

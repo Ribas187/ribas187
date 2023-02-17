@@ -23,7 +23,7 @@ My Techs:<br><br>
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white' />
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-942%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -50,7 +50,7 @@ CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 16/02/2023 09:36:27 UTC
+ Last Updated on 17/02/2023 09:33:30 UTC
 <!--END_SECTION:waka-->
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 

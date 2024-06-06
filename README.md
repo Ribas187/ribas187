@@ -29,7 +29,7 @@ My Techs:<br><br>
 
 > 📦 110.8 kB Used in GitHub's Storage 
  > 
-> 🏆 250 Contributions in the Year 2024
+> 🏆 252 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -50,7 +50,7 @@ TSQL                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 05/06/2024 10:03:21 UTC
+ Last Updated on 06/06/2024 10:01:34 UTC
 <!--END_SECTION:waka-->
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 

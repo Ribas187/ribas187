@@ -29,6 +29,8 @@ My Techs:<br><br>
 
 > 📦 116.8 kB Used in GitHub's Storage 
  > 
+> 🏆 168 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -48,7 +50,7 @@ TSQL                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 18/04/2025 10:36:07 UTC
+ Last Updated on 19/04/2025 10:30:17 UTC
 <!--END_SECTION:waka-->
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 

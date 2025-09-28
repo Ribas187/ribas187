@@ -23,7 +23,7 @@ My Techs:<br><br>
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white' />
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -50,7 +50,7 @@ Dart                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 27/09/2025 10:44:01 UTC
+ Last Updated on 28/09/2025 10:44:51 UTC
 <!--END_SECTION:waka-->
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 

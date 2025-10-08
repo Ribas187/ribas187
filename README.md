@@ -29,7 +29,7 @@ My Techs:<br><br>
 
 > 📦 116.8 kB Used in GitHub's Storage 
  > 
-> 🏆 578 Contributions in the Year 2025
+> 🏆 581 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,7 +50,7 @@ Dart                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 07/10/2025 10:33:53 UTC
+ Last Updated on 08/10/2025 10:34:23 UTC
 <!--END_SECTION:waka-->
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 

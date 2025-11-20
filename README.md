@@ -23,13 +23,13 @@ My Techs:<br><br>
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white' />
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 116.8 kB Used in GitHub's Storage 
  > 
-> 🏆 670 Contributions in the Year 2025
+> 🏆 679 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,7 +50,7 @@ Dart                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 18/11/2025 10:44:01 UTC
+ Last Updated on 20/11/2025 10:57:46 UTC
 <!--END_SECTION:waka-->
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 

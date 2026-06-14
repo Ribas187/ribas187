@@ -28,13 +28,13 @@ Currently pursuing an **MBA in Software & Solution Architecture** 🎓
  ---
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.20%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-189.14%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 121.9 kB Used in GitHub's Storage 
  > 
-> 🏆 698 Contributions in the Year 2026
+> 🏆 699 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -55,7 +55,7 @@ CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 13/06/2026 12:41:06 UTC
+ Last Updated on 14/06/2026 13:04:13 UTC
 <!--END_SECTION:waka-->
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 

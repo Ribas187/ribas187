@@ -28,7 +28,7 @@ Currently pursuing an **MBA in Software & Solution Architecture** 🎓
  ---
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171.87%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -61,7 +61,7 @@ CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 11/09/2026 16:50:54 UTC
+ Last Updated on 12/09/2026 14:34:56 UTC
 <!--END_SECTION:waka-->
  
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeRibas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ribas/)](https://www.linkedin.com/in/guilherme-ribas/) 
